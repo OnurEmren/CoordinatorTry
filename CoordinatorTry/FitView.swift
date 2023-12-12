@@ -1,5 +1,5 @@
 //
-//  HomeViewModel.swift
+//  FitView.swift
 //  CoordinatorTry
 //
 //  Created by Onur Emren on 12.12.2023.

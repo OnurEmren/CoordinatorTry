@@ -1,5 +1,5 @@
 //
-//  DetailViewController.swift
+//  FitViewController.swift
 //  CoordinatorTry
 //
 //  Created by Onur Emren on 12.12.2023.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-class DetailViewController: UIViewController {
+class FitViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
